@@ -1,0 +1,9 @@
+mask1 mod4
+mask2 mod4 
+fn monospace 
+bw 0 
+nosoliddrag
+dock lxpanel
+f lxpanel
+v lxpanel
+
