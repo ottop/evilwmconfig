@@ -1,0 +1,2 @@
+# evilwmconfig
+My evilwm configuration
